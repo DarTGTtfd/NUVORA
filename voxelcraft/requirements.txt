@@ -1,5 +1,0 @@
-node>=18
-npm>=9
-express>=4.19.2,<5
-ws>=8.17.1,<9
-three.js==r128 (loaded from the cdnjs CDN, no install needed)
