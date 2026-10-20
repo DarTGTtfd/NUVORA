@@ -1,4 +1,4 @@
-# VoxelCraft Survival
+# NUVORA Survival
 
 A multiplayer voxel survival game that runs in the browser, built with Three.js, Node.js (Express) and WebSocket.
 
