@@ -81,3 +81,6 @@ The server stores world edits in `world.json` and chest contents in `chests.json
 ## Contact
 
 Contact me at https://discord.gg/uMCWjqDr7N
+## Showcase
+
+![Project Showcase](gamelg.png)
